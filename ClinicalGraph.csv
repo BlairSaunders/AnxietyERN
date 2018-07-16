@@ -1,0 +1,13 @@
+Subsample,Method,esize,lowCI,upCI
+Volunteers,naïve ,-0.145,-0.23,-0.056
+Volunteers,T&F,-0.123,-0.211,-0.033
+Volunteers,PEESE,-0.03922986,-0.1762355,0.09926094
+Volunteers,Peters,-0.03399689,-0.1791158,0.1125625
+Volunteers,PET,0.04983867,-0.1819358,0.2763623
+Volunteers,Selection,-0.1328108,-0.2661354,0.005525944
+Clinical ,naïve ,-0.225,-0.269,-0.181
+Clinical ,T&F,-0.2,-0.245,-0.154
+Clinical ,PEESE,-0.1630808,-0.2283918,-0.09630534
+Clinical ,Peters,-0.1515925,-0.2241288,-0.07739401
+Clinical ,PET,-0.07608268,-0.2062491,0.05672836
+Clinical ,Selection,-0.1753683,-0.2400244,-0.1090644
